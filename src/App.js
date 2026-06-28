@@ -1,5 +1,4 @@
-echo node_modules/ > .gitignore
-echo build/ >> .gitignoreimport { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import './App.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
